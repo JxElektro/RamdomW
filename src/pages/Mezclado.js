@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function Portafolio() {
+export default function Mezclado() {
   return (
     <div>
-      <h1>Portafoliod</h1>
+      <h1>Mezclado</h1>
     </div>
   );
 }
